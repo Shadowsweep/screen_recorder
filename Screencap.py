@@ -32,4 +32,4 @@ while True:
     captured_video.write(img_final)
     if cv2.waitKey(10) == ord(' '):
         break
- 
+ # To stop the code press ctrl + c
